@@ -21,9 +21,11 @@ const Button = styled.button`
   color: black;
   font-size: 20px;
   padding: 1em;
-  margin: 0px;
+  margin: 5px;
+  border: 1px solid #000000;
+  border-radius: 15px;
   cursor: pointer;
-  width:100%;
+  width:95%;
   `;
 // const ButtonGroup = styled.div`
 //   display: flex;`

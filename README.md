@@ -1,7 +1,5 @@
 # S6.Intro-React
  
-# S6.Intro-React
- 
 - Exercici 1
 Com ja hem indicat, una aplicació amb React està composta de components, diguem que cada component és una peça del puzle, tenint aquests components un propòsit únic i obvi.
 
