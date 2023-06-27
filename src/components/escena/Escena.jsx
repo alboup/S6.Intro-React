@@ -7,7 +7,7 @@ const StyledEscena = styled.p`
 display: flex;
 color: black;
 justify-content: center;
-font-size: 12px;
+font-size: 16px;
 background-color: ${(props) => (props.seleccionada ? '#FA98B2' : '#ffffff')};
 margin-bottom: 10px;
 border: 2px solid #000000;
